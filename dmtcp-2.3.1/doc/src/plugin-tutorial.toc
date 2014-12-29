@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Anatomy of a plugin}{2}
+\contentsline {section}{\numberline {3}Writing Plugins}{2}
+\contentsline {subsection}{\numberline {3.1}Invoking a plugin}{2}
+\contentsline {subsection}{\numberline {3.2}The plugin mechanisms}{2}
+\contentsline {subsubsection}{\numberline {3.2.1}Plugin events}{3}
+\contentsline {subsubsection}{\numberline {3.2.2}Plugin wrapper functions}{3}
+\contentsline {subsubsection}{\numberline {3.2.3}Plugin coordination among multiple or distributed processes}{4}
+\contentsline {subsubsection}{\numberline {3.2.4}Using plugins to virtualize ids and other names}{4}
+\contentsline {section}{\numberline {4}Application-Initiated Checkpoints}{4}
+\contentsline {section}{\numberline {A}Appendix: Plugin Manual}{5}
+\contentsline {subsection}{\numberline {A.1}Plugin events}{5}
+\contentsline {subsubsection}{\numberline {A.1.1}dmtcp\_event\_hook}{5}
+\contentsline {subsubsection}{\numberline {A.1.2}DMTCP\_NEXT\_EVENT\_HOOK}{5}
+\contentsline {subsubsection}{\numberline {A.1.3}Event Names}{6}
+\contentsline {subsection}{\numberline {A.2}Publish/Subscribe}{8}
+\contentsline {subsection}{\numberline {A.3}Wrapper functions}{8}
+\contentsline {subsection}{\numberline {A.4}Miscellaneous utility functions}{8}
